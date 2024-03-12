@@ -1,5 +1,11 @@
-﻿var a = 15;
+﻿static int average(int[] arr)
+{
+    int sum = 0;
+    
+    foreach (var number in arr)
+    {
+        sum += number;
+    }
 
-var b = 10;
-
-var c = 5;
+    return sum / arr.Length;
+}

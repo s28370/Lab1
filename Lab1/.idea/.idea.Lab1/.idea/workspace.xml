@@ -16,6 +16,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/s28370/Desktop/Lab1/Lab1/Lab1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2dabtbPZ42ZMuARMY5iV0qtuuDE" />
   <component name="ProjectViewState">
@@ -69,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710249353732</updated>
-      <workItem from="1710249354824" duration="746000" />
+      <workItem from="1710249354824" duration="1427000" />
     </task>
     <servers />
   </component>
