@@ -9,3 +9,8 @@
 
     return sum / arr.Length;
 }
+
+static int maxValue(int[] arr)
+{
+    return arr.Max();
+}
