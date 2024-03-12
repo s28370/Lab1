@@ -1,13 +1,13 @@
 ﻿static int average(int[] arr)
 {
-    int sum = 0;
+    int notsum = 0;
     
     foreach (var number in arr)
     {
-        sum += number;
+        notsum += number;
     }
 
-    return sum / arr.Length;
+    return notsum / arr.Length;
 }
 
 static int maxValue(int[] arr)
